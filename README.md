@@ -10,11 +10,11 @@
 AI Engineer & Entrepreneur based in Seoul, Korea.
 I build AI-powered products and obsess over making them cost-efficient.
 
-- 🎓 CS & Engineering @ Konkuk University (Sophomore)
+- 🎓 CS & Engineering @ Konkuk University 
 - 🏆 SW Maestro 16th — Outstanding Graduate
 - 🚀 Founder of **Ling-Level**, an AI-powered English learning platform
-- 🌎 UC Berkeley Entrepreneurship Program Alumni
 - 🔍 Interested in LLM cost optimization, AI workflows, and cloud infrastructure
+- 🎯 Building toward Full-Stack AI Engineering, focused on LLM orchestration
 
 <br/>
 
@@ -23,32 +23,30 @@ I build AI-powered products and obsess over making them cost-efficient.
 **AI / LLM**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=python&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Nova](https://img.shields.io/badge/Amazon_Nova-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logoColor=white)
 
-**Backend / Cloud**
+**Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
 <br/>
 
 ## 🚀 Featured Project
 
-### [Ling-Level](https://github.com/yudam-kim/ling-level) — AI English Learning Platform
+### [Ling-Level](https://linglevel.com/) — AI English Learning Platform
 
 > Automatically adjusts English content difficulty across CEFR levels using LLMs.
 
-- ⚡ **625x cost reduction** — migrated from Claude Sonnet to Amazon Nova Lite & Meta Llama
+- ⚡ **100x cost reduction** — via AWS Bedrock model benchmarking and LangGraph pipeline optimization
 - 🔗 LangGraph-based AI workflow with AWS Bedrock
-- 📚 CEFR-aware content processing pipeline
+- 📚 CEFR-aware content pipeline with automated daily content delivery
 
 <br/>
 
@@ -64,10 +62,10 @@ I build AI-powered products and obsess over making them cost-efficient.
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudam-kim-a23ab8283/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:damdori3@gmail.com)
 
 <br/>
 
 <div align="center">
-  <img src="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyudam-kim&labelColor=%23f5f5f5&countColor=%236e6e6e" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyudam-kim&labelColor=%23f5f5f5&countColor=%236e6e6e" />
 </div>
