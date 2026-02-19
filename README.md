@@ -53,8 +53,7 @@ I build AI-powered products and obsess over making them cost-efficient.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yudam-kim&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudam-kim&layout=compact&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=otteru&theme=default&hide_border=true" />
 </div>
 
 <br/>
